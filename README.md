@@ -27,7 +27,9 @@ https://rohbwls5b1.execute-api.us-east-1.amazonaws.com/dev
 
   * **Code:** 200 <br />
     **Content:** `[
-        { _id : vckdu87uingghacxj, title : "Fried Duck", ingredients: [], {...}, {...}, ... }
+        { _id : vckdu87uingghacxj, title : "Fried Duck", ingredients: [{ ingredient: "tepung", qty: 5, unit: "gram" }, {..}], 
+        {...},
+        {...}
     ]`
  
 * **Error Response:**

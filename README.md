@@ -1,3 +1,6 @@
+** Base URL **
+https://rohbwls5b1.execute-api.us-east-1.amazonaws.com/dev
+
 **Show All Recipes**
 ----
   Returns json of all recipes.
